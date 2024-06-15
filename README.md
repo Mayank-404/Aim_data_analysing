@@ -1,2 +1,6 @@
 # Self_data_cleaning
-Dealing with My Data (like My aim traning data)
+Analysing My Aim Traning Data in every possible way by using Pandas 
+for becoming better at fps ('''Valorant'')
+## Software used
+### AmisLab
+### Google Sheet
