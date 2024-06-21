@@ -14,7 +14,7 @@ print (scores[scores["Date"]=="22nd May 2024"]
 #creating a graph of Smooth Strafe Sphere Easy
 x=np.array(scores[scores["Date"]])
 y=np.array(scores[scores["Smooth Strafe Sphere Easy")
-
+plt.plot(x,y)
 
 #printing the scores
 print(scores)
