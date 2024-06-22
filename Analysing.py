@@ -21,3 +21,5 @@ y=np.array(scores[scores["Smooth Strafe Sphere Easy")
 plt.plot(x,y)
 plt.show()
 
+#analysing TwoShot Pressure
+mean_TwoShot Pressure=scores['TwoShot Pressure'].mean()
